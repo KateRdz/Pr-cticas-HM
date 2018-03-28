@@ -1,0 +1,84 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<lugares>
+	<locacion>
+		<imagen>Bangkok.jpg</imagen>
+		<info continente = "asia"></info>
+	</locacion>
+	<locacion>
+		<imagen>Brasil.jpg</imagen>
+		<info continente = "america"></info>
+	</locacion>	
+		<locacion>
+		<imagen>Egypt.jpg</imagen>
+		<info continente = "africa"></info>
+	</locacion>
+		<locacion>
+		<imagen>London.jpg</imagen>
+		<info continente = "europa"></info>
+	</locacion>
+	<locacion>
+		<imagen>Mexico.jpg</imagen>
+		<info continente = "america"></info>
+	</locacion>
+		<locacion>
+		<imagen>New_York.jpg</imagen>
+		<info continente = "america"></info>
+	</locacion>
+		<locacion>
+		<imagen>Paris.jpg</imagen>
+		<info continente = "europa"></info>
+	</locacion>
+
+		<locacion>
+		<imagen>Rome.jpg</imagen>
+		<info continente = "europa"></info>
+	</locacion>
+		<locacion>
+		<imagen>Venece.jpg</imagen>
+		<info continente = "europa"></info>
+	</locacion>
+		<locacion>
+		<imagen>Flor1.jpg</imagen>
+		<info continente = "europa"></info>
+	</locacion>
+	<locacion>
+		<imagen>Flor2.jpg</imagen>
+		<info continente = "europa"></info>
+	</locacion>
+	<locacion>
+		<imagen>Flor3.jpg</imagen>
+		<info continente = "europa"></info>
+	</locacion>
+	<locacion>
+		<imagen>Flor4.jpg</imagen>
+		<info continente = "europa"></info>
+	</locacion>
+	<locacion>
+		<imagen>Flor5.jpg</imagen>
+		<info continente = "europa"></info>
+	</locacion>
+	<locacion>
+		<imagen>Flor6.jpg</imagen>
+		<info continente = "europa"></info>
+	</locacion>
+	<locacion>
+		<imagen>Flor7.jpg</imagen>
+		<info continente = "europa"></info>
+	</locacion>
+	<locacion>
+		<imagen>Flor8.jpg</imagen>
+		<info continente = "europa"></info>
+	</locacion>
+	<locacion>
+		<imagen>Flor9.jpg</imagen>
+		<info continente = "europa"></info>
+	</locacion>
+	<locacion>
+		<imagen>Flor10.jpg</imagen>
+		<info continente = "europa"></info>
+	</locacion>
+	<locacion>
+		<imagen>Flor11.jpg</imagen>
+		<info continente = "europa"></info>
+	</locacion>
+</lugares>
